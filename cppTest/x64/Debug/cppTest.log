@@ -1,0 +1,43 @@
+﻿  learn2cpp.cpp
+C:\Users\agary\source\repos\cppTest\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(81,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(82,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(83,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(85,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(86,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(89,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(95,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(96,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(103,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(104,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(119,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(120,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(121,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(122,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(123,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(124,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(127,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(133,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(134,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(141,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\renderer.cpp(142,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(24,66): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(27,65): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(32,66): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(35,65): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(60,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(67,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(74,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(81,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(94,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(101,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(108,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(115,20): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\agary\source\repos\cppTest\game.cpp(145,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(146,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\agary\source\repos\cppTest\game.cpp(243,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cppTest.vcxproj -> C:\Users\agary\source\repos\cppTest\x64\Debug\cppTest.exe

@@ -1,0 +1,24 @@
+﻿  learn2cpp.cpp
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(4,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(4,10): error C2146: syntax error: missing ';' before identifier 'wc'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(4,15): error C2143: syntax error: missing ';' before '{'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(4,15): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6,3): error C3484: syntax error: expected '->' before the return type
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6,16): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6,4): error C2146: syntax error: missing ';' before identifier 'lpfnWndProc'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,3): error C3484: syntax error: expected '->' before the return type
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,14): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,1): error C2086: 'int wc': redefinition
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6): message : see declaration of 'wc'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(7,4): error C2146: syntax error: missing ';' before identifier 'hInstance'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,3): error C3484: syntax error: expected '->' before the return type
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,18): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,1): error C2086: 'int wc': redefinition
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(6): message : see declaration of 'wc'
+C:\Users\agary\source\repos\cppTest\learn2cpp.cpp(8,4): error C2146: syntax error: missing ';' before identifier 'lpszClassName'

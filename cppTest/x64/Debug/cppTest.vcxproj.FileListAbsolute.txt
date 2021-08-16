@@ -1,0 +1,2 @@
+C:\Users\agary\source\repos\cppTest\x64\Debug\cppTest.exe
+C:\Users\agary\source\repos\cppTest\x64\Debug\cppTest.pdb
